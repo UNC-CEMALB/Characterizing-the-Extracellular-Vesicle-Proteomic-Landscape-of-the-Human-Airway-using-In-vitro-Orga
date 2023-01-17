@@ -6,6 +6,6 @@
 
 In the instance that the files are unable to rendered the NBViewer link can be clicked below.
 
-![Link to NBViewer](https://nbviewer.org/github/UNC-CEMALB/Characterizing-the-Extracellular-Vesicle-Proteomic-Landscape-of-the-Human-Airway-using-In-vitro-Orga/tree/main/) 
+[Link to NBViewer](https://nbviewer.org/github/UNC-CEMALB/Characterizing-the-Extracellular-Vesicle-Proteomic-Landscape-of-the-Human-Airway-using-In-vitro-Orga/tree/main/) 
 
 This script was generated to support the manuscript titled 'Characterizing the Extracellular Vesicle Proteomic Landscape of the Human Airway using In vitro Organotypic Multi-Cellular Models', currently under review.
